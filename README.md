@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/tonysbb/wloc/refs/heads/main/modules/wloc.modu
 
 直接用快捷指令切换 / 清除定位，无需打开选点页面：
 
-- **wloc 设置地理位置**：https://www.icloud.com/shortcuts/d91f8e4f9fe147a6bd61e4103efa37bc
+- **wloc 设置地理位置**：https://www.icloud.com/shortcuts/d17730894b74483797b79c8b95659ab9
 - **wloc 清理恢复位置**：https://www.icloud.com/shortcuts/302e08146ba646359f013a7f39439774
 
 **用法**
